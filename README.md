@@ -12,28 +12,6 @@ I focus on designing clean APIs, handling data efficiently, and improving system
 
 ---
 
-## 📌 Projects
-
-### 🧠 Habit Tracker (PERN)
-Backend-driven system for managing habits, schedules, and progress tracking.
-- Designed REST APIs with Node.js & Express  
-- Built PostgreSQL schema with streaks, XP, and leaderboard logic  
-- Integrated backend with frontend for real-time updates  
-
-🔗 https://github.com/SaiCharan007-max/SD-Final-Project-Gamified-Habit-Tracker
-
----
-
-### 📋 Task Manager (PERN)
-Full-stack task management system with secure user access.
-- Implemented JWT-based authentication  
-- Built role-based access and protected routes  
-- Designed relational schema for tasks and users  
-
-🔗 https://github.com/SaiCharan007-max/Task-Manager-Application
-
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SaiCharan007-max&show_icons=true&theme=tokyonight)
